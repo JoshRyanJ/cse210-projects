@@ -26,7 +26,7 @@ public class Word
         if (_isHidden)
         {
             string hiddenWord = "";
-            for (int i = 0; i < _text.Length: i++)
+            for (int i = 0; i < _text.Length; i++)
             {
                 hiddenWord += "_";
             }
